@@ -59,7 +59,7 @@ ShazamAPI
 spamwatch
 speedtest-cli
 sqlalchemy-json
-sqlalchemy==2.0.3
+sqlalchemy==2.0.10
 telegraph
 git+https://github.com/MdNoor786/Telethon
 tgcrypto
